@@ -1,0 +1,653 @@
+Golf Data Summary
+This file stores the average and standard deviation of every variable recorded
+-----------------------------------------------------------------------------
+Club: 60
+Variable: Carry
+Average: 86.2
+Standard Deviation: 13.61
+----------
+Variable: Total
+Average: 87.92
+Standard Deviation: 13.17
+----------
+Variable: Smash Factor
+Average: 1.13
+Standard Deviation: 0.58
+----------
+Variable: Club Speed
+Average: 65.82
+Standard Deviation: 29.83
+----------
+Variable: Ball Speed
+Average: 74.22
+Standard Deviation: 8.58
+----------
+Variable: Back Spin
+Average: 8926.4
+Standard Deviation: 3337.0
+----------
+Variable: Launch Angle
+Average: 25.959
+Standard Deviation: 10.54
+----------
+Variable: Decent Angle
+Average: 42.8
+Standard Deviation: 10.27
+----------
+Variable: Apex
+Average: 16.52
+Standard Deviation: 7.59
+----------
+Variable: Flight Time
+Average: 4.159
+Standard Deviation: 0.89
+----------
+Variable: Face Angle
+Average: -3.481
+Standard Deviation: 4.81
+----------
+Variable: Club Path
+Average: -1.42
+Standard Deviation: 17.79
+----------
+-----------------------------------------------------------------------------
+Club: 56
+Variable: Carry
+Average: 110.55
+Standard Deviation: 20.4
+----------
+Variable: Total
+Average: 112.5
+Standard Deviation: 18.4
+----------
+Variable: Smash Factor
+Average: 1.143
+Standard Deviation: 0.45
+----------
+Variable: Club Speed
+Average: 77.816
+Standard Deviation: 23.33
+----------
+Variable: Ball Speed
+Average: 88.833
+Standard Deviation: 13.09
+----------
+Variable: Back Spin
+Average: 9385.166
+Standard Deviation: 1620.27
+----------
+Variable: Launch Angle
+Average: 23.566
+Standard Deviation: 6.18
+----------
+Variable: Decent Angle
+Average: 45.783
+Standard Deviation: 12.28
+----------
+Variable: Apex
+Average: 22.483
+Standard Deviation: 14.16
+----------
+Variable: Flight Time
+Average: 4.949
+Standard Deviation: 1.37
+----------
+Variable: Face Angle
+Average: -3.7
+Standard Deviation: 5.76
+----------
+Variable: Club Path
+Average: -1.65
+Standard Deviation: 9.81
+----------
+-----------------------------------------------------------------------------
+Club: 52
+Variable: Carry
+Average: 126.34
+Standard Deviation: 4.97
+----------
+Variable: Total
+Average: 129.599
+Standard Deviation: 3.39
+----------
+Variable: Smash Factor
+Average: 1.21
+Standard Deviation: 0.25
+----------
+Variable: Club Speed
+Average: 81.14
+Standard Deviation: 16.3
+----------
+Variable: Ball Speed
+Average: 98.08
+Standard Deviation: 5.54
+----------
+Variable: Back Spin
+Average: 8697.0
+Standard Deviation: 2323.92
+----------
+Variable: Launch Angle
+Average: 22.92
+Standard Deviation: 9.52
+----------
+Variable: Decent Angle
+Average: 47.739
+Standard Deviation: 10.01
+----------
+Variable: Apex
+Average: 27.24
+Standard Deviation: 13.42
+----------
+Variable: Flight Time
+Average: 5.479
+Standard Deviation: 0.83
+----------
+Variable: Face Angle
+Average: -2.68
+Standard Deviation: 5.63
+----------
+Variable: Club Path
+Average: -0.6
+Standard Deviation: 8.54
+----------
+-----------------------------------------------------------------------------
+Club: P
+Variable: Carry
+Average: 142.28
+Standard Deviation: 16.51
+----------
+Variable: Total
+Average: 146.68
+Standard Deviation: 18.33
+----------
+Variable: Smash Factor
+Average: 1.292
+Standard Deviation: 0.25
+----------
+Variable: Club Speed
+Average: 83.46
+Standard Deviation: 21.84
+----------
+Variable: Ball Speed
+Average: 107.68
+Standard Deviation: 9.98
+----------
+Variable: Back Spin
+Average: 8088.0
+Standard Deviation: 1601.95
+----------
+Variable: Launch Angle
+Average: 22.32
+Standard Deviation: 1.64
+----------
+Variable: Decent Angle
+Average: 49.5
+Standard Deviation: 2.0
+----------
+Variable: Apex
+Average: 32.42
+Standard Deviation: 4.96
+----------
+Variable: Flight Time
+Average: 5.979
+Standard Deviation: 0.44
+----------
+Variable: Face Angle
+Average: -2.08
+Standard Deviation: 7.79
+----------
+Variable: Club Path
+Average: -1.1
+Standard Deviation: 6.04
+----------
+-----------------------------------------------------------------------------
+Club: 9
+Variable: Carry
+Average: 154.139
+Standard Deviation: 21.26
+----------
+Variable: Total
+Average: 160.32
+Standard Deviation: 23.82
+----------
+Variable: Smash Factor
+Average: 1.31
+Standard Deviation: 0.29
+----------
+Variable: Club Speed
+Average: 86.479
+Standard Deviation: 23.14
+----------
+Variable: Ball Speed
+Average: 113.2
+Standard Deviation: 12.14
+----------
+Variable: Back Spin
+Average: 7080.4
+Standard Deviation: 2073.82
+----------
+Variable: Launch Angle
+Average: 20.56
+Standard Deviation: 7.92
+----------
+Variable: Decent Angle
+Average: 48.62
+Standard Deviation: 8.64
+----------
+Variable: Apex
+Average: 33.16
+Standard Deviation: 14.2
+----------
+Variable: Flight Time
+Average: 6.12
+Standard Deviation: 0.83
+----------
+Variable: Face Angle
+Average: -1.58
+Standard Deviation: 9.31
+----------
+Variable: Club Path
+Average: 0.28
+Standard Deviation: 8.37
+----------
+-----------------------------------------------------------------------------
+Club: 8
+Variable: Carry
+Average: 167.16
+Standard Deviation: 19.89
+----------
+Variable: Total
+Average: 174.279
+Standard Deviation: 23.25
+----------
+Variable: Smash Factor
+Average: 1.395
+Standard Deviation: 0.21
+----------
+Variable: Club Speed
+Average: 86.28
+Standard Deviation: 18.37
+----------
+Variable: Ball Speed
+Average: 120.42
+Standard Deviation: 9.2
+----------
+Variable: Back Spin
+Average: 6639.8
+Standard Deviation: 2108.2
+----------
+Variable: Launch Angle
+Average: 19.419
+Standard Deviation: 4.38
+----------
+Variable: Decent Angle
+Average: 49.14
+Standard Deviation: 5.94
+----------
+Variable: Apex
+Average: 35.88
+Standard Deviation: 11.86
+----------
+Variable: Flight Time
+Average: 6.42
+Standard Deviation: 0.83
+----------
+Variable: Face Angle
+Average: -0.48
+Standard Deviation: 7.46
+----------
+Variable: Club Path
+Average: 0.88
+Standard Deviation: 7.36
+----------
+-----------------------------------------------------------------------------
+Club: 7
+Variable: Carry
+Average: 182.859
+Standard Deviation: 17.21
+----------
+Variable: Total
+Average: 192.42
+Standard Deviation: 20.06
+----------
+Variable: Smash Factor
+Average: 1.414
+Standard Deviation: 0.25
+----------
+Variable: Club Speed
+Average: 89.14
+Standard Deviation: 20.83
+----------
+Variable: Ball Speed
+Average: 126.04
+Standard Deviation: 9.37
+----------
+Variable: Back Spin
+Average: 5371.4
+Standard Deviation: 2296.56
+----------
+Variable: Launch Angle
+Average: 16.54
+Standard Deviation: 7.3
+----------
+Variable: Decent Angle
+Average: 46.2
+Standard Deviation: 9.92
+----------
+Variable: Apex
+Average: 33.6
+Standard Deviation: 14.86
+----------
+Variable: Flight Time
+Average: 6.38
+Standard Deviation: 1.3
+----------
+Variable: Face Angle
+Average: -0.64
+Standard Deviation: 9.39
+----------
+Variable: Club Path
+Average: 1.26
+Standard Deviation: 8.96
+----------
+-----------------------------------------------------------------------------
+Club: 6
+Variable: Carry
+Average: 194.459
+Standard Deviation: 27.27
+----------
+Variable: Total
+Average: 205.02
+Standard Deviation: 32.06
+----------
+Variable: Smash Factor
+Average: 1.443
+Standard Deviation: 0.32
+----------
+Variable: Club Speed
+Average: 90.66
+Standard Deviation: 20.98
+----------
+Variable: Ball Speed
+Average: 131.0
+Standard Deviation: 6.36
+----------
+Variable: Back Spin
+Average: 4826.0
+Standard Deviation: 2979.21
+----------
+Variable: Launch Angle
+Average: 14.74
+Standard Deviation: 9.44
+----------
+Variable: Decent Angle
+Average: 44.479
+Standard Deviation: 16.93
+----------
+Variable: Apex
+Average: 32.66
+Standard Deviation: 22.04
+----------
+Variable: Flight Time
+Average: 6.42
+Standard Deviation: 1.64
+----------
+Variable: Face Angle
+Average: 0.28
+Standard Deviation: 13.27
+----------
+Variable: Club Path
+Average: 1.72
+Standard Deviation: 2.04
+----------
+-----------------------------------------------------------------------------
+Club: 5
+Variable: Carry
+Average: 209.0
+Standard Deviation: 22.16
+----------
+Variable: Total
+Average: 221.56
+Standard Deviation: 23.88
+----------
+Variable: Smash Factor
+Average: 1.456
+Standard Deviation: 0.43
+----------
+Variable: Club Speed
+Average: 92.96
+Standard Deviation: 23.56
+----------
+Variable: Ball Speed
+Average: 135.459
+Standard Deviation: 13.24
+----------
+Variable: Back Spin
+Average: 3954.0
+Standard Deviation: 1993.71
+----------
+Variable: Launch Angle
+Average: 13.059
+Standard Deviation: 3.5
+----------
+Variable: Decent Angle
+Average: 41.46
+Standard Deviation: 9.01
+----------
+Variable: Apex
+Average: 30.58
+Standard Deviation: 12.35
+----------
+Variable: Flight Time
+Average: 6.38
+Standard Deviation: 0.83
+----------
+Variable: Face Angle
+Average: 1.06
+Standard Deviation: 8.2
+----------
+Variable: Club Path
+Average: 2.78
+Standard Deviation: 11.69
+----------
+-----------------------------------------------------------------------------
+Club: 4
+Variable: Carry
+Average: 218.4
+Standard Deviation: 22.16
+----------
+Variable: Total
+Average: 232.18
+Standard Deviation: 23.29
+----------
+Variable: Smash Factor
+Average: 1.492
+Standard Deviation: 0.17
+----------
+Variable: Club Speed
+Average: 93.12
+Standard Deviation: 12.31
+----------
+Variable: Ball Speed
+Average: 139.119
+Standard Deviation: 7.39
+----------
+Variable: Back Spin
+Average: 3430.0
+Standard Deviation: 2081.26
+----------
+Variable: Launch Angle
+Average: 11.499
+Standard Deviation: 10.22
+----------
+Variable: Decent Angle
+Average: 38.1
+Standard Deviation: 24.98
+----------
+Variable: Apex
+Average: 27.64
+Standard Deviation: 28.09
+----------
+Variable: Flight Time
+Average: 6.22
+Standard Deviation: 2.16
+----------
+Variable: Face Angle
+Average: 0.519
+Standard Deviation: 10.1
+----------
+Variable: Club Path
+Average: 2.58
+Standard Deviation: 8.16
+----------
+-----------------------------------------------------------------------------
+Club: HY3
+Variable: Carry
+Average: 243.65
+Standard Deviation: 34.49
+----------
+Variable: Total
+Average: 258.9
+Standard Deviation: 42.74
+----------
+Variable: Smash Factor
+Average: 1.482
+Standard Deviation: 0.2
+----------
+Variable: Club Speed
+Average: 100.725
+Standard Deviation: 17.55
+----------
+Variable: Ball Speed
+Average: 149.075
+Standard Deviation: 11.52
+----------
+Variable: Back Spin
+Average: 3078.25
+Standard Deviation: 2667.61
+----------
+Variable: Launch Angle
+Average: 11.725
+Standard Deviation: 17.95
+----------
+Variable: Decent Angle
+Average: 39.3
+Standard Deviation: 29.85
+----------
+Variable: Apex
+Average: 32.0
+Standard Deviation: 43.81
+----------
+Variable: Flight Time
+Average: 6.675
+Standard Deviation: 2.98
+----------
+Variable: Face Angle
+Average: 0.399
+Standard Deviation: 16.37
+----------
+Variable: Club Path
+Average: 2.925
+Standard Deviation: 24.12
+----------
+-----------------------------------------------------------------------------
+Club: M3
+Variable: Carry
+Average: 283.1
+Standard Deviation: 90.21
+----------
+Variable: Total
+Average: 301.666
+Standard Deviation: 104.6
+----------
+Variable: Smash Factor
+Average: 1.508
+Standard Deviation: 0.04
+----------
+Variable: Club Speed
+Average: 109.8
+Standard Deviation: 15.32
+----------
+Variable: Ball Speed
+Average: 165.45
+Standard Deviation: 23.92
+----------
+Variable: Back Spin
+Average: 2267.833
+Standard Deviation: 4305.52
+----------
+Variable: Launch Angle
+Average: 10.95
+Standard Deviation: 8.91
+----------
+Variable: Decent Angle
+Average: 34.7
+Standard Deviation: 45.4
+----------
+Variable: Apex
+Average: 30.616
+Standard Deviation: 46.84
+----------
+Variable: Flight Time
+Average: 6.733
+Standard Deviation: 3.61
+----------
+Variable: Face Angle
+Average: -2.084
+Standard Deviation: 13.84
+----------
+Variable: Club Path
+Average: 2.983
+Standard Deviation: 25.11
+----------
+-----------------------------------------------------------------------------
+Club: Driver
+Variable: Carry
+Average: 277.36
+Standard Deviation: 52.59
+----------
+Variable: Total
+Average: 296.5
+Standard Deviation: 47.78
+----------
+Variable: Smash Factor
+Average: 1.412
+Standard Deviation: 0.42
+----------
+Variable: Club Speed
+Average: 114.84
+Standard Deviation: 28.91
+----------
+Variable: Ball Speed
+Average: 162.06
+Standard Deviation: 20.47
+----------
+Variable: Back Spin
+Average: 1936.4
+Standard Deviation: 3103.91
+----------
+Variable: Launch Angle
+Average: 10.94
+Standard Deviation: 15.96
+----------
+Variable: Decent Angle
+Average: 30.88
+Standard Deviation: 55.92
+----------
+Variable: Apex
+Average: 26.82
+Standard Deviation: 63.44
+----------
+Variable: Flight Time
+Average: 6.34
+Standard Deviation: 5.63
+----------
+Variable: Face Angle
+Average: 10.8
+Standard Deviation: Not enought information to calculate STDEV
+----------
+Variable: Club Path
+Average: 3.28
+Standard Deviation: 6.83
+----------
+-----------------------------------------------------------------------------
